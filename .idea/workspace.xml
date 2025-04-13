@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ea5a2f9-6f47-4bed-b8d4-40d8d6494dfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MethodsDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsDemo/MethodsDemo.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsDemo/MethodsDemo/MethodsDemo.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsDemo/MethodsDemo/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypesDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypesDemo/TypesDemo.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypesDemo/TypesDemo/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypesDemo/TypesDemo/TypesDemo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/obj/Debug/net9.0/LoopsExercise1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/obj/Debug/net9.0/LoopsExercise1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/obj/Debug/net9.0/LoopsExercise1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/obj/Debug/net9.0/LoopsExercise1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsExercise1/LoopsExercise1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net9.0/MethodOverloading.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/MethodOverloading.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/ref/MethodOverloading.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/ref/MethodOverloading.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/refint/MethodOverloading.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net9.0/refint/MethodOverloading.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/Math Methods/obj/Debug/net9.0/Math Methods.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodsExercise/MethodsExercise/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/OperatorExercise.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/OperatorExercise.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/OperatorExercise.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/OperatorExercise.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators-Exercise/OperatorExercise/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/bin/Debug/net9.0/Exercise 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/bin/Debug/net9.0/Exercise 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/bin/Debug/net9.0/Exercise 2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/bin/Debug/net9.0/Exercise 2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/bin/Debug/net9.0/Exercise 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/bin/Debug/net9.0/Exercise 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/Exercise 2.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/ref/Exercise 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/ref/Exercise 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/refint/Exercise 2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Exercise 2/obj/Debug/net9.0/refint/Exercise 2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/Selection Statement Exercise Readme.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/Selection Statement Exercise Readme.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Selection-Statements-Exercise/SelectionStatementExercise/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net9.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/ChallengesSet02.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/ChallengesSet02.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../WeeklyChallenges/ChallengesWithTestsMark8/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ArrayAndListQuiz" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vh1URr9NBcych2LM63kpPPKPqR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ea5a2f9-6f47-4bed-b8d4-40d8d6494dfd" name="Changes" comment="" />
+      <created>1744582506958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744582506958</updated>
+      <workItem from="1744582508024" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
